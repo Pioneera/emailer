@@ -1,6 +1,6 @@
 {
   "name": "@pioneera/emailer",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Email sender",
   "main": "index.js",
   "repository": "git@github.com:Pioneera/emailer.git",
